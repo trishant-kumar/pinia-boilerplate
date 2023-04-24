@@ -1,5 +1,5 @@
 {
-  "name": "pinia-course",
+  "name": "pinia-boilerplate",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
